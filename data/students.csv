@@ -1,0 +1,4 @@
+student_id,name,fee_status,fee_due_inr
+STU1001,Aarav Shah,Partially Paid,25000
+STU1002,Meera Patel,Paid,0
+STU1003,Rohan Desai,Pending,18000

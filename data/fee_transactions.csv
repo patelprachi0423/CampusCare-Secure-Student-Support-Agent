@@ -1,0 +1,4 @@
+transaction_id,student_id,amount_inr,status
+TXN001,STU1001,15000,Successful
+TXN002,STU1002,42000,Successful
+TXN003,STU1003,10000,Pending
